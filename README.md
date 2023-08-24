@@ -1,6 +1,8 @@
 # Alien Invasion Game
 
 > **WORK IN PROGRESS!**
+> <br/>
+> ![](https://geps.dev/progress/65)
 
 > A game where you shoot aliens to survive. Old classic 🎮
 
