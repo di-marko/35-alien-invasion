@@ -1,6 +1,6 @@
 # Alien Invasion Game
 
-> **WORK IN PROGRESS!**
+> **Done!**
 > <br/>
 > ![](https://geps.dev/progress/100)
 
