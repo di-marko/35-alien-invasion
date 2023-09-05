@@ -2,7 +2,7 @@
 
 > **WORK IN PROGRESS!**
 > <br/>
-> ![](https://geps.dev/progress/90)
+> ![](https://geps.dev/progress/100)
 
 > A game where you shoot aliens to survive. Old classic 🎮
 
